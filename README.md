@@ -4,10 +4,12 @@ This repo is recording the rebuilding algorithms from scratch either in tensorfl
 
 [TensorFlow](./https://www.tensorflow.org/get_started/get_started_for_beginners)
 
-Numpy
+[PyTorch](./https://pytorch-cn.readthedocs.io/zh/latest/)
 
 ### Logistic Regression
 
 - [LR-tf](./tf-LR/tensorflow_LR.ipynb)
 - [LR](./LR/Logistic%20Regression.ipynb)
+
+### [AutoEncoder](./AutoEncoder)
 
